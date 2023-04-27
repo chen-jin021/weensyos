@@ -1,4 +1,4 @@
-# Project 4 - WeensyOS
+# WeensyOS
 
 ## Design Overview:
 
